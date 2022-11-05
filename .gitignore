@@ -1,3 +1,4 @@
 
 docs/.hugo_build.lock
 **/_gen/**
+.hugo_build.lock

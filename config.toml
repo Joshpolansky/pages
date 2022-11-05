@@ -14,7 +14,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
   author = "Josh Polansky"
-  info = "Engineer and Magician"
+  info = "Engineer and Robot Wrangler"
   description = "Josh Polansky's personal website"
   keywords = "blog,developer,personal"
   gravatar = "me@ajoshp.com"
@@ -32,6 +32,9 @@ disqusShortname = "yourdiscussshortname"
   # customCSS = ["css/custom.css"]
   # customSCSS = ["scss/custom.scss"]
   # customJS = ["js/custom.js"]
+
+[markup.goldmark.renderer]
+unsafe= true
 
 [taxonomies]
   category = "categories"
