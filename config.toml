@@ -16,13 +16,13 @@ disqusShortname = "yourdiscussshortname"
   author = "Josh Polansky"
   info = "Engineer and Robot Wrangler"
   description = "Josh Polansky's personal website"
-  keywords = "blog,developer,personal"
+  keywords = "developer,personal"
   gravatar = "me@ajoshp.com"
 
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  since = 2019
+  since = 2022
 
   enableTwemoji = true
 
