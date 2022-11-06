@@ -1,15 +1,8 @@
-+++ 
-draft = true
-date = 2022-11-05T13:33:40-07:00
-title = "VR robot"
-description = ""
-slug = ""
-authors = []
-tags = []
-categories = []
-externalLink = ""
-series = []
-+++
+---
+title: "VR Robot"
+date: 2022-11-05T13:33:40-07:00
+---
+
 
 I assume you looked at the Basic Robot. Here is one that works in VR (Sorry, it does require a VR headset to.. can't fix that..)
 
