@@ -4,7 +4,7 @@ date: 2022-11-05T13:33:40-07:00
 ---
 
 
-I assume you looked at the Basic Robot. Here is one that works in VR (Sorry, it does require a VR headset to.. can't fix that..)
+I assume you looked at the Basic Robot. Here is one that works in VR (Sorry, it does require a VR headset.. can't fix that..)
 
 Note: Something changed somewhere that caused grabbing the robot in VR to break. I will fix it some day. 
 
