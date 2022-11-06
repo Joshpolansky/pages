@@ -1,11 +1,11 @@
 ---
-title: "Playing with robots"
+title: "Basic Robot"
 date: 2022-11-05T13:33:40-07:00
 ---
 
 Here is a robot that you can drive around, if you would like.
-
-<div id="scene" style="height:60%"></div>
+<base href="/">
+<div id="scene" style="height:60vh"></div>
 <script src="/js/robot.js" type="module"></script>
 
 It's an Abb 1300. I have a real one to play with, so I figured it was only fair to create one for others to play with. 

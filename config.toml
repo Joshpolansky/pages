@@ -54,6 +54,7 @@ unsafe= true
   name = "Fun"
   weight = 1
   url  = "robots/"
+  
 [[menu.main]]
   name = "About"
   weight = 2
