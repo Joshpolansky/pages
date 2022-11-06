@@ -51,11 +51,17 @@ unsafe= true
 
 # Menu links
 [[menu.main]]
-  name = "Fun"
+  name = "Tools"
   weight = 1
+  url  = "tools/"
+  
+# Menu links
+[[menu.main]]
+  name = "Fun"
+  weight = 2
   url  = "robots/"
   
 [[menu.main]]
   name = "About"
-  weight = 2
+  weight = 3
   url = "about/"
