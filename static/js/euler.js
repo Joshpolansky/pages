@@ -43,7 +43,7 @@ function updateTable() {
         const quaternion = new THREE.Quaternion();
         quaternion.setFromEuler(vec)
         table += '<td>'
-        table += quaternion.toJSON()
+        table += `x ${(quaternion._x).toPrecision(3)} <br/> y ${(quaternion._y).toPrecision(3)} <br/>z ${(quaternion._z).toPrecision(3)} <br/>w ${(quaternion._w).toPrecision(3)}`
         table += '</td>'
         table += '</tr>'
 
