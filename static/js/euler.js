@@ -18,7 +18,7 @@ function updateTable() {
         table += '</th>'
     }
     table += '<th>'
-    table += Quaternion
+    table += 'Quaternion'
     table += '</th>'
     table += '</tr>'
     for (source_order in orders) {
@@ -41,7 +41,7 @@ function updateTable() {
             table += '</td>'
         }
         const quaternion = new THREE.Quaternion();
-        quaternion.setFromEuler( vec )
+        quaternion.setFromEuler(vec)
         table += '<td>'
         table += quaternion.toJSON()
         table += '</td>'
